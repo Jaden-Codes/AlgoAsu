@@ -8,9 +8,11 @@ class Solution:
         for char in s:
 
             if char in valid:
-                stack.pop()
                 
-                if stack[-1] != valid[char] and stack:
+                
+                if stack[] == valid[char] and stack:
+                    stack.pop()
+                else:
                     return False
                 
                 
