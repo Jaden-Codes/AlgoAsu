@@ -10,7 +10,7 @@ class Solution:
             if char in valid:
                 
                 
-                if stack[] == valid[char] and stack:
+                if stack and stack[-1] == valid[char]:
                     stack.pop()
                 else:
                     return False
