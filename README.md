@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Jaden-Codes/AlgoAsu/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Jaden-Codes/AlgoAsu/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Jaden-Codes/AlgoAsu/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
